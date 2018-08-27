@@ -1,10 +1,21 @@
-# 🏠 Museum Indonesia
+# museum-indonesia
 
-Open source web apps for browse Museum in Indonesia
+## Project setup
+```
+yarn install
+```
 
-## Data Source
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
 
-All data is from [https://data.go.id](https://data.go.id/dataset/museum-indonesia)
+### Compiles and minifies for production
+```
+yarn run build
+```
 
-
-Copyright © 2018 by Irfan Maulana
+### Lints and fixes files
+```
+yarn run lint
+```
