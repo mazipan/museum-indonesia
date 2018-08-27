@@ -1,0 +1,139 @@
+{
+  "data": [{
+      "kode_wilayah": "010000  ",
+      "nama": "Prov. D.K.I. Jakarta"
+    },
+    {
+      "kode_wilayah": "020000  ",
+      "nama": "Prov. Jawa Barat"
+    },
+    {
+      "kode_wilayah": "030000  ",
+      "nama": "Prov. Jawa Tengah"
+    },
+    {
+      "kode_wilayah": "040000  ",
+      "nama": "Prov. D.I. Yogyakarta"
+    },
+    {
+      "kode_wilayah": "050000  ",
+      "nama": "Prov. Jawa Timur"
+    },
+    {
+      "kode_wilayah": "060000  ",
+      "nama": "Prov. Aceh"
+    },
+    {
+      "kode_wilayah": "070000  ",
+      "nama": "Prov. Sumatera Utara"
+    },
+    {
+      "kode_wilayah": "080000  ",
+      "nama": "Prov. Sumatera Barat"
+    },
+    {
+      "kode_wilayah": "090000  ",
+      "nama": "Prov. Riau"
+    },
+    {
+      "kode_wilayah": "100000  ",
+      "nama": "Prov. Jambi"
+    },
+    {
+      "kode_wilayah": "110000  ",
+      "nama": "Prov. Sumatera Selatan"
+    },
+    {
+      "kode_wilayah": "120000  ",
+      "nama": "Prov. Lampung"
+    },
+    {
+      "kode_wilayah": "130000  ",
+      "nama": "Prov. Kalimantan Barat"
+    },
+    {
+      "kode_wilayah": "140000  ",
+      "nama": "Prov. Kalimantan Tengah"
+    },
+    {
+      "kode_wilayah": "150000  ",
+      "nama": "Prov. Kalimantan Selatan"
+    },
+    {
+      "kode_wilayah": "160000  ",
+      "nama": "Prov. Kalimantan Timur"
+    },
+    {
+      "kode_wilayah": "170000  ",
+      "nama": "Prov. Sulawesi Utara"
+    },
+    {
+      "kode_wilayah": "180000  ",
+      "nama": "Prov. Sulawesi Tengah"
+    },
+    {
+      "kode_wilayah": "190000  ",
+      "nama": "Prov. Sulawesi Selatan"
+    },
+    {
+      "kode_wilayah": "200000  ",
+      "nama": "Prov. Sulawesi Tenggara"
+    },
+    {
+      "kode_wilayah": "210000  ",
+      "nama": "Prov. Maluku"
+    },
+    {
+      "kode_wilayah": "220000  ",
+      "nama": "Prov. Bali"
+    },
+    {
+      "kode_wilayah": "230000  ",
+      "nama": "Prov. Nusa Tenggara Barat"
+    },
+    {
+      "kode_wilayah": "240000  ",
+      "nama": "Prov. Nusa Tenggara Timur"
+    },
+    {
+      "kode_wilayah": "250000  ",
+      "nama": "Prov. Papua"
+    },
+    {
+      "kode_wilayah": "260000  ",
+      "nama": "Prov. Bengkulu"
+    },
+    {
+      "kode_wilayah": "270000  ",
+      "nama": "Prov. Maluku Utara"
+    },
+    {
+      "kode_wilayah": "280000  ",
+      "nama": "Prov. Banten"
+    },
+    {
+      "kode_wilayah": "290000  ",
+      "nama": "Prov. Kepulauan Bangka Belitung"
+    },
+    {
+      "kode_wilayah": "300000  ",
+      "nama": "Prov. Gorontalo"
+    },
+    {
+      "kode_wilayah": "310000  ",
+      "nama": "Prov. Kepulauan Riau"
+    },
+    {
+      "kode_wilayah": "320000  ",
+      "nama": "Prov. Papua Barat"
+    },
+    {
+      "kode_wilayah": "330000  ",
+      "nama": "Prov. Sulawesi Barat"
+    },
+    {
+      "kode_wilayah": "340000  ",
+      "nama": "Prov. Kalimantan Utara"
+    }
+  ]
+}

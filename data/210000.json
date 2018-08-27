@@ -1,0 +1,47 @@
+{
+  "data": [{
+      "museum_id": "1B8C63D0-3B86-49C4-B234-5EF308D3C0F5",
+      "kode_pengelolaan": "MS000381",
+      "nama": "Museum Bung Hatta",
+      "sdm": "0",
+      "alamat_jalan": "Jl. Bung Hatta",
+      "desa_kelurahan": "-",
+      "kecamatan": "Salahutu",
+      "kabupaten_kota": "Kab. Maluku Tengah",
+      "propinsi": "Prop. Maluku",
+      "lintang": "-4.5214480",
+      "bujur": "129.8920680",
+      "koleksi": "0",
+      "sumber_dana": "-",
+      "pengelola": "Pemkab",
+      "tipe": "Khusus",
+      "standar": "-",
+      "tahun_berdiri": "0",
+      "bangunan": "-",
+      "luas_tanah": "0",
+      "status_kepemilikan": "-"
+    },
+    {
+      "museum_id": "9DCBD954-0452-4664-BD0A-1D53C4F0C7BB",
+      "kode_pengelolaan": "MS000380",
+      "nama": "Museum Negeri PROVINSI Maluku “Siwa Lima“",
+      "sdm": "0",
+      "alamat_jalan": "Jl. Taman Makmur",
+      "desa_kelurahan": "-",
+      "kecamatan": "Nusaniwe",
+      "kabupaten_kota": "Kota Ambon",
+      "propinsi": "Prop. Maluku",
+      "lintang": "-3.7132400",
+      "bujur": "128.1528120",
+      "koleksi": "0",
+      "sumber_dana": "-",
+      "pengelola": "DEPDIKBUD (smp. th. 2002), MENBUDPAR (smp th.2005), 1999/2000 dibawah PEMDA",
+      "tipe": "Umum",
+      "standar": "B",
+      "tahun_berdiri": "1977",
+      "bangunan": "Lama dan Baru",
+      "luas_tanah": "0",
+      "status_kepemilikan": "-"
+    }
+  ]
+}

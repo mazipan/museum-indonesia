@@ -1,0 +1,47 @@
+{
+  "data": [{
+      "museum_id": "2D1EFE1C-912B-462B-8F29-0ECA4E76081D",
+      "kode_pengelolaan": "MS000421",
+      "nama": "Museum Negeri Provinsi Kalimantan Selatan “Lambung Mangkurat“",
+      "sdm": "0",
+      "alamat_jalan": "Jl. Jend. A. Yani  Km, 36,5",
+      "desa_kelurahan": "-",
+      "kecamatan": "Banjarbaru Utara",
+      "kabupaten_kota": "Kota Banjarbaru",
+      "propinsi": "Prop. Kalimantan Selatan",
+      "lintang": "-3.4394910",
+      "bujur": "114.8475850",
+      "koleksi": "12017",
+      "sumber_dana": "-",
+      "pengelola": "DEPDIKBUD (smp. th. 2002), MENBUDPAR (smp th.2005), 1999/2000 dibawah PEMDA",
+      "tipe": "Umum",
+      "standar": "B",
+      "tahun_berdiri": "1979",
+      "bangunan": "-",
+      "luas_tanah": "0",
+      "status_kepemilikan": "-"
+    },
+    {
+      "museum_id": "FA3C95D5-609E-4D3F-979C-6F29E9C307FE",
+      "kode_pengelolaan": "MS000422",
+      "nama": "Museum Waja Sampai Kaputing “Perjuangan Rakyat Kalimantan Selatan”",
+      "sdm": "0",
+      "alamat_jalan": "Jl. Sultan Adam Kompleks Haji Andir",
+      "desa_kelurahan": "-",
+      "kecamatan": "Banjarmasin Utara",
+      "kabupaten_kota": "Kota Banjarmasin",
+      "propinsi": "Prop. Kalimantan Selatan",
+      "lintang": "-3.3033960",
+      "bujur": "114.6089920",
+      "koleksi": "500",
+      "sumber_dana": "-",
+      "pengelola": "PEMDA",
+      "tipe": "Khusus",
+      "standar": "C",
+      "tahun_berdiri": "1991",
+      "bangunan": "Lama",
+      "luas_tanah": "0",
+      "status_kepemilikan": "-"
+    }
+  ]
+}

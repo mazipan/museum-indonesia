@@ -1,0 +1,24 @@
+{
+  "data": [{
+    "museum_id": "34072DE4-8CD7-4F31-A855-FB484B15ECDB",
+    "kode_pengelolaan": "MS000386",
+    "nama": "Museum Negeri Provinsi Gorontalo",
+    "sdm": "0",
+    "alamat_jalan": "-",
+    "desa_kelurahan": "-",
+    "kecamatan": "Batudaa",
+    "kabupaten_kota": "Kab. Gorontalo",
+    "propinsi": "Prop. Gorontalo",
+    "lintang": ".5456250",
+    "bujur": "123.0597530",
+    "koleksi": "0",
+    "sumber_dana": "-",
+    "pengelola": "-",
+    "tipe": "Umum",
+    "standar": "-",
+    "tahun_berdiri": "2015",
+    "bangunan": "-",
+    "luas_tanah": "0",
+    "status_kepemilikan": "-"
+  }]
+}

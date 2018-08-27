@@ -1,0 +1,24 @@
+{
+  "data": [{
+    "museum_id": "5E089DF1-46F7-4A93-8C74-2735450BC4A9",
+    "kode_pengelolaan": "MS000424",
+    "nama": "Museum Kayu Sampit",
+    "sdm": "0",
+    "alamat_jalan": "Jl. S. Parman No. 1 ",
+    "desa_kelurahan": "-",
+    "kecamatan": "Mentawa Baru Ketapang",
+    "kabupaten_kota": "Kab. Kotawaringin Timur",
+    "propinsi": "Prop. Kalimantan Tengah",
+    "lintang": "-2.5386050",
+    "bujur": "112.9588180",
+    "koleksi": "0",
+    "sumber_dana": "-",
+    "pengelola": "Khusus",
+    "tipe": "-",
+    "standar": "-",
+    "tahun_berdiri": "2004",
+    "bangunan": "-",
+    "luas_tanah": "0",
+    "status_kepemilikan": "-"
+  }]
+}

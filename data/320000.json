@@ -1,0 +1,24 @@
+{
+  "data": [{
+    "museum_id": "19D06F43-C864-4A94-8F1D-88A651E1E03C",
+    "kode_pengelolaan": "MS000379",
+    "nama": "Museum Perkabaran Injil di Mansinam",
+    "sdm": "0",
+    "alamat_jalan": "Pulau Mansinam",
+    "desa_kelurahan": "-",
+    "kecamatan": "Manokwari Timur",
+    "kabupaten_kota": "Kab. Manokwari",
+    "propinsi": "Prop. Papua Barat",
+    "lintang": "-.8909960",
+    "bujur": "134.0925020",
+    "koleksi": "0",
+    "sumber_dana": "-",
+    "pengelola": "-",
+    "tipe": "-",
+    "standar": "-",
+    "tahun_berdiri": "0",
+    "bangunan": "-",
+    "luas_tanah": "0",
+    "status_kepemilikan": "-"
+  }]
+}
