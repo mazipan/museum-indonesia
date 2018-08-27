@@ -1,6 +1,7 @@
 <template>
-  <div class="about">
-    <label for="province-selection">Province: </label>
+  <div class="museum">
+    <h1>List of Museum</h1>
+    <label for="province-selection">Select province: </label>
     <select id="province-selection" v-model="selectedProvince">
       <option disabled value="">Please select one</option>
       <option :value="province.kode_wilayah" v-for="province in provinceList" :key="province.kode_wilayah">
@@ -29,7 +30,7 @@
 
 <script>
 export default {
-  name: 'map',
+  name: 'museum',
   data () {
     return {
       selectedProvince: '',
@@ -65,3 +66,10 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+.museum{
+  text-align: left;
+}
+</style>
+
