@@ -1,0 +1,47 @@
+{
+  "data": [{
+      "museum_id": "57C1E4BC-34C6-4ED1-A43A-8B6CD1FA904B",
+      "kode_pengelolaan": "MS000076",
+      "nama": "Museum Ketransmigrasian Lampung",
+      "sdm": "",
+      "alamat_jalan": "Jl. Ahmad Yani, Desa Beglen",
+      "desa_kelurahan": "-",
+      "kecamatan": "Gedung Tataan",
+      "kabupaten_kota": "Kab. Pesawaran",
+      "propinsi": "Lampung",
+      "lintang": "-5.3776660",
+      "bujur": "105.1074960",
+      "koleksi": "",
+      "sumber_dana": "PEMERINTAH DAERAH",
+      "pengelola": "Dinas Tenaga Kerja dan Transmigrasi Provinsi",
+      "tipe": "khusus",
+      "standar": "B",
+      "tahun_berdiri": "2004",
+      "bangunan": "Baru",
+      "luas_tanah": "6300",
+      "status_kepemilikan": null
+    },
+    {
+      "museum_id": "0C72D756-FC27-4187-BFC0-193CE3CDA860",
+      "kode_pengelolaan": "MS000009",
+      "nama": "Museum Negeri PROVINSI Lampung “Ruwa Jurai",
+      "sdm": "47",
+      "alamat_jalan": "Jl. Zaenal Abidin Pagar Alam  No. 64",
+      "desa_kelurahan": "Gedongmeneng",
+      "kecamatan": "Rajabasa",
+      "kabupaten_kota": "Kota Bandar Lampung",
+      "propinsi": "Lampung",
+      "lintang": "-5.3722540",
+      "bujur": "105.2408770",
+      "koleksi": "4747",
+      "sumber_dana": "PEMERINTAH DAERAH",
+      "pengelola": "Dinas Kebudayaan dan Pariwisata Provinsi",
+      "tipe": "Umum",
+      "standar": "A",
+      "tahun_berdiri": "1988",
+      "bangunan": "Baru",
+      "luas_tanah": "18895",
+      "status_kepemilikan": "Pemerintah Kab/Kota"
+    }
+  ]
+}
