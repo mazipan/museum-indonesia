@@ -1,6 +1,5 @@
 <template>
   <div class="museum">
-    <h1>List of Museum</h1>
     <label for="province-selection">Select province: </label>
     <select id="province-selection" v-model="selectedProvince">
       <option disabled value="">Please select one</option>
@@ -35,7 +34,7 @@ const mapboxgl = require('mapbox-gl/dist/mapbox-gl.js')
 
 export default {
   name: 'museum',
-  data() {
+  data () {
     return {
       selectedProvince: '',
       provinceList: [],
@@ -43,7 +42,7 @@ export default {
     }
   },
   watch: {
-    selectedProvince(newValue) {
+    selectedProvince (newValue) {
       if (newValue) {
         fetch(`/museum-indonesia/data/${newValue.trim()}.json`)
           .then(resp => resp.json())
@@ -55,14 +54,14 @@ export default {
     }
   },
   methods: {
-    fetchData() {
+    fetchData () {
       fetch('/museum-indonesia/data/province.json')
         .then(resp => resp.json())
         .then(data => {
           this.provinceList = data.data
         })
     },
-    generateMarker(map, museumList) {
+    generateMarker (map, museumList) {
       museumList.map(item => {
         const el = document.createElement('div')
         el.className = 'marker'
@@ -78,7 +77,7 @@ export default {
           .addTo(map)
       })
     },
-    initMap(museumList) {
+    initMap (museumList) {
       mapboxgl.accessToken =
         'pk.eyJ1IjoibWF6aXBhbiIsImEiOiJjamxjNXl0MWk0bXZuM3FsbXJ4Zno4dzBwIn0.5iwp2hDExpabMN6dIrkdeg'
 
@@ -93,7 +92,7 @@ export default {
       this.generateMarker(map, museumList)
     }
   },
-  mounted() {
+  mounted () {
     this.fetchData()
   }
 }
