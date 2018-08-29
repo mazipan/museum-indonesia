@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox-sw.js");
 
 importScripts(
-  "/museum-indonesia/precache-manifest.76eb9eed0af4a0a91dc7aa4b969869fb.js"
+  "/museum-indonesia/precache-manifest.30bf04dc8ad8a28af7c0aaa023e2dd4b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "museum-indonesia"});
