@@ -66,4 +66,20 @@ export default {
   height: 100%;
   z-index: 19;
 }
+a{
+  color: #fed15b;
+  text-decoration: none;
+}
+.logo-100{
+  width: 100px;
+  height: 100px;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.google-ads{
+  width: 90%;
+}
 </style>
