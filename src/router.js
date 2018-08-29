@@ -15,6 +15,11 @@ export default new Router({
       path: '/museum',
       name: 'museum',
       component: () => import(/* webpackChunkName: "museum" */ './views/Museum.vue')
+    },
+    {
+      path: '/about',
+      name: 'about',
+      component: () => import(/* webpackChunkName: "about" */ './views/About.vue')
     }
   ]
 })
